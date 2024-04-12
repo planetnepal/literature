@@ -12,5 +12,6 @@ By *Nepali Literature* we mean literature about nepali life and society, fiction
 - https://en.wikipedia.org/wiki/Nepali_literature
 - https://ne.wikipedia.org/wiki/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%A3%E0%A5%80:%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF
 - https://commons.wikimedia.org/wiki/Category:Literature?uselang=ne
+- https://elibrary.tucl.edu.np/ 
 
   
